@@ -1,6 +1,6 @@
 Clone the repository:
-git clone https://github.com/yourusername/purchase-order-form.git
-cd purchase-order-form
+git clone https://github.com/rhk0/ownAIFrontend.git
+cd ownAIFrontend
 
 Install dependencies:
 npm install
